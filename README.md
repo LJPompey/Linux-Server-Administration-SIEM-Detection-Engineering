@@ -3,6 +3,8 @@
 📖 Overview
 In enterprise environments, local administration skills must be paired with centralized security and operational monitoring. This project demonstrates practical Linux server administration, intentional service breakage and troubleshooting, and the engineering of a centralized SIEM pipeline to automatically alert on critical outages.
 
+[Read the Full Incident Report on Medium](https://medium.com/@pompey.lamont01/local-linux-administrator-troubleshooting-isnt-enough-building-siem-detection-pipelines-15d6cad80ccf?postPublishedType=initial)
+
 🎯 Objectives
 Linux Troubleshooting: Intentionally misconfigure core services (Apache2, DNS) and utilize native CLI tools (journalctl, dig, ping) to diagnose and resolve the failures.
 
